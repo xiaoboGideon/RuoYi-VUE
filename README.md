@@ -93,3 +93,86 @@
 ## 若依前后端分离交流群
 
 QQ群： [![加入QQ群](https://img.shields.io/badge/已满-937441-blue.svg)](https://jq.qq.com/?_wv=1027&k=5bVB1og) [![加入QQ群](https://img.shields.io/badge/已满-887144332-blue.svg)](https://jq.qq.com/?_wv=1027&k=5eiA4DH) [![加入QQ群](https://img.shields.io/badge/已满-180251782-blue.svg)](https://jq.qq.com/?_wv=1027&k=5AxMKlC) [![加入QQ群](https://img.shields.io/badge/已满-104180207-blue.svg)](https://jq.qq.com/?_wv=1027&k=51G72yr) [![加入QQ群](https://img.shields.io/badge/已满-186866453-blue.svg)](https://jq.qq.com/?_wv=1027&k=VvjN2nvu) [![加入QQ群](https://img.shields.io/badge/已满-201396349-blue.svg)](https://jq.qq.com/?_wv=1027&k=5vYAqA05) [![加入QQ群](https://img.shields.io/badge/已满-101456076-blue.svg)](https://jq.qq.com/?_wv=1027&k=kOIINEb5) [![加入QQ群](https://img.shields.io/badge/已满-101539465-blue.svg)](https://jq.qq.com/?_wv=1027&k=UKtX5jhs) [![加入QQ群](https://img.shields.io/badge/已满-264312783-blue.svg)](https://jq.qq.com/?_wv=1027&k=EI9an8lJ) [![加入QQ群](https://img.shields.io/badge/已满-167385320-blue.svg)](https://jq.qq.com/?_wv=1027&k=SWCtLnMz) [![加入QQ群](https://img.shields.io/badge/已满-104748341-blue.svg)](https://jq.qq.com/?_wv=1027&k=96Dkdq0k) [![加入QQ群](https://img.shields.io/badge/已满-160110482-blue.svg)](https://jq.qq.com/?_wv=1027&k=0fsNiYZt) [![加入QQ群](https://img.shields.io/badge/已满-170801498-blue.svg)](https://jq.qq.com/?_wv=1027&k=7xw4xUG1) [![加入QQ群](https://img.shields.io/badge/已满-108482800-blue.svg)](https://jq.qq.com/?_wv=1027&k=eCx8eyoJ) [![加入QQ群](https://img.shields.io/badge/已满-101046199-blue.svg)](https://jq.qq.com/?_wv=1027&k=SpyH2875) [![加入QQ群](https://img.shields.io/badge/已满-136919097-blue.svg)](https://jq.qq.com/?_wv=1027&k=tKEt51dz) [![加入QQ群](https://img.shields.io/badge/已满-143961921-blue.svg)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=0vBbSb0ztbBgVtn3kJS-Q4HUNYwip89G&authKey=8irq5PhutrZmWIvsUsklBxhj57l%2F1nOZqjzigkXZVoZE451GG4JHPOqW7AW6cf0T&noverify=0&group_code=143961921) [![加入QQ群](https://img.shields.io/badge/已满-174951577-blue.svg)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=ZFAPAbp09S2ltvwrJzp7wGlbopsc0rwi&authKey=HB2cxpxP2yspk%2Bo3WKTBfktRCccVkU26cgi5B16u0KcAYrVu7sBaE7XSEqmMdFQp&noverify=0&group_code=174951577) [![加入QQ群](https://img.shields.io/badge/已满-161281055-blue.svg)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Fn2aF5IHpwsy8j6VlalNJK6qbwFLFHat&authKey=uyIT%2B97x2AXj3odyXpsSpVaPMC%2Bidw0LxG5MAtEqlrcBcWJUA%2FeS43rsF1Tg7IRJ&noverify=0&group_code=161281055) [![加入QQ群](https://img.shields.io/badge/已满-138988063-blue.svg)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=XIzkm_mV2xTsUtFxo63bmicYoDBA6Ifm&authKey=dDW%2F4qsmw3x9govoZY9w%2FoWAoC4wbHqGal%2BbqLzoS6VBarU8EBptIgPKN%2FviyC8j&noverify=0&group_code=138988063) [![加入QQ群](https://img.shields.io/badge/已满-151450850-blue.svg)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=DkugnCg68PevlycJSKSwjhFqfIgrWWwR&authKey=pR1Pa5lPIeGF%2FFtIk6d%2FGB5qFi0EdvyErtpQXULzo03zbhopBHLWcuqdpwY241R%2F&noverify=0&group_code=151450850) [![加入QQ群](https://img.shields.io/badge/已满-224622315-blue.svg)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=F58bgRa-Dp-rsQJThiJqIYv8t4-lWfXh&authKey=UmUs4CVG5OPA1whvsa4uSespOvyd8%2FAr9olEGaWAfdLmfKQk%2FVBp2YU3u2xXXt76&noverify=0&group_code=224622315) [![加入QQ群](https://img.shields.io/badge/已满-287842588-blue.svg)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Nxb2EQ5qozWa218Wbs7zgBnjLSNk_tVT&authKey=obBKXj6SBKgrFTJZx0AqQnIYbNOvBB2kmgwWvGhzxR67RoRr84%2Bus5OadzMcdJl5&noverify=0&group_code=287842588) [![加入QQ群](https://img.shields.io/badge/已满-187944233-blue.svg)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=numtK1M_I4eVd2Gvg8qtbuL8JgX42qNh&authKey=giV9XWMaFZTY%2FqPlmWbkB9g3fi0Ev5CwEtT9Tgei0oUlFFCQLDp4ozWRiVIzubIm&noverify=0&group_code=187944233) [![加入QQ群](https://img.shields.io/badge/已满-228578329-blue.svg)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=G6r5KGCaa3pqdbUSXNIgYloyb8e0_L0D&authKey=4w8tF1eGW7%2FedWn%2FHAypQksdrML%2BDHolQSx7094Agm7Luakj9EbfPnSTxSi2T1LQ&noverify=0&group_code=228578329) [![加入QQ群](https://img.shields.io/badge/191164766-blue.svg)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=GsOo-OLz53J8y_9TPoO6XXSGNRTgbFxA&authKey=R7Uy%2Feq%2BZsoKNqHvRKhiXpypW7DAogoWapOawUGHokJSBIBIre2%2FoiAZeZBSLuBc&noverify=0&group_code=191164766) 点击按钮入群。
+
+
+
+
+## 一、启动 RuoYi-Vue 后端的具体步骤
+
+1. **安装环境**
+   - 安装 JDK 8 或 11：  
+     `sudo apt install openjdk-11-jdk`
+   - 安装 Maven：  
+     `sudo apt install maven`
+   - 安装并启动 MySQL：  
+     `sudo apt install mysql-server`  
+     `sudo systemctl start mysql`
+   - 安装并启动 Redis：  
+     `sudo apt install redis-server`  
+     `sudo systemctl start redis-server`
+
+2. **准备数据库**
+   - 登录 MySQL，创建数据库：  
+     `mysql -u root -p`  
+     `CREATE DATABASE ry_vue DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;`
+   - 导入 SQL 脚本：  
+     `mysql -u root -p ry_vue < sql/ry_*.sql`
+
+3. **配置数据库连接**
+   - 编辑 `ruoyi-admin/src/main/resources/application-druid.yml`  
+     修改数据库用户名、密码、库名等信息，确保和你本地数据库一致。
+
+4. **创建日志目录**
+   - 项目需要 logs 目录：  
+     `sudo mkdir -p /home/ruoyi/logs`  
+     `sudo chown -R $USER:$USER /home/ruoyi`
+
+5. **编译并启动项目**
+   - 在项目根目录执行：  
+     `mvn clean install`
+   - 启动后端服务：  
+     `bash ry.sh start`  
+     或进入 `ruoyi-admin` 目录用：  
+     `mvn spring-boot:run`
+
+6. **检查服务状态**
+   - 查看 8080 端口是否被监听：  
+     `netstat -tnlp | grep 8080`
+   - 浏览器访问 [http://localhost:8080](http://localhost:8080) 检查是否能打开登录页。
+
+---
+
+## 二、你遇到的主要问题及解决方法
+
+1. **日志目录不存在导致启动失败**
+   - 报错：`Failed to create parent directories for /home/ruoyi/logs/sys-info.log`
+   - 解决：手动创建 logs 目录并赋权。
+
+2. **Redis 未启动导致启动失败**
+   - 报错：`Unable to connect to Redis; nested exception is io.lettuce.core.RedisConnectionException: Unable to connect to localhost:6379`
+   - 解决：安装并启动 Redis 服务（`sudo systemctl start redis-server`）。
+
+3. **脚本无执行权限**
+   - 报错：`Permission denied`
+   - 解决：`chmod +x ry.sh`
+
+4. **脚本语法错误**
+   - 报错：`Syntax error: "(" unexpected`
+   - 解决：用 `bash ry.sh start` 运行脚本。
+
+5. **服务启动后立刻退出**
+   - 原因：通常是数据库或 Redis 未配置好，或日志目录不存在。
+   - 解决：根据日志内容逐一排查并修复。
+
+---
+
+## 三、常用排查命令
+
+- 查看日志：`tail -n 50 /home/ruoyi/logs/sys-error.log`
+- 检查端口：`netstat -tnlp | grep 8080`
+- 检查 Redis 状态：`redis-cli ping`（返回 `PONG` 即正常）
+
+---
+
+**总结：**  
+RuoYi 后端依赖 MySQL 和 Redis，日志目录必须存在。遇到启动失败，优先看日志内容，按报错提示逐步排查环境和配置问题即可。
